@@ -1,4 +1,4 @@
-# Example Git Respository
+# Example Git Repository
 
 An example repository for learning Git and Github
 at a Software Carpentry Workshop.
